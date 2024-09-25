@@ -11,7 +11,8 @@ Activity 1.3
 
 Activity 1.4
 
-![Uploading image.png…]()
+<img width="683" alt="image" src="https://github.com/user-attachments/assets/54aff8b4-bdd9-40b7-8408-004159ae5ae6">
 
 Activity 1.5
-![Uploading image.png…]()
+<img width="683" alt="image" src="https://github.com/user-attachments/assets/641810b0-e679-4f29-bc45-364aa8c7652e">
+
