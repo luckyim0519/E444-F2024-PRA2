@@ -9,3 +9,6 @@ Activity 1.3
 
 <img width="1042" alt="image" src="https://github.com/user-attachments/assets/fde3dec9-ca57-4056-b1f4-58912198e4b1">
 
+Activity 1.4
+
+![Uploading image.png…]()
