@@ -40,6 +40,12 @@ def index():
         if old_email is not None:
             flash('Looks like you have changed your email address!')
         session['name'] = form.name.data
+        # validate uoft email
+        email = form.email.data
+        if not email.endswith("@mail.utoronto.ca"):
+            flash("Invalid email. Please enter a valid University of Toronto email.")
+            return redirect(url_for('index'))
+
         session['email'] = form.email.data
         return redirect(url_for('index'))
     return render_template('index.html', form=form, name=session.get('name'), email=session.get('email'))
