@@ -1,11 +1,11 @@
-Flasky
-======
+# E444-F2024-PRA2
 
-This repository contains the source code examples for the second edition of my O'Reilly book [Flask Web Development](http://www.flaskbook.com).
+This is the clone of https://github.com/miguelgrinberg/flasky/releases/
 
-The commits and tags in this repository were carefully created to match the sequence in which concepts are presented in the book. Please read the section titled "How to Work with the Example Code" in the book's preface for instructions.
+Activity 1.2
+<img width="1359" alt="image" src="https://github.com/user-attachments/assets/ebd93dd7-2e58-4310-a3c9-e673fc5a03ea">
 
-For Readers of the First Edition of the Book
---------------------------------------------
+Activity 1.3 
 
-The code examples for the first edition of the book were moved to a different repository: [https://github.com/miguelgrinberg/flasky-first-edition](https://github.com/miguelgrinberg/flasky-first-edition).
+<img width="1042" alt="image" src="https://github.com/user-attachments/assets/fde3dec9-ca57-4056-b1f4-58912198e4b1">
+
