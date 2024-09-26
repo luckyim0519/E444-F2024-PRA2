@@ -29,6 +29,8 @@ def internal_server_error(e):
     return render_template('500.html'), 500
 
 
+# this is helped with the chat gpt 
+
 @app.route('/', methods=['GET', 'POST'])
 def index():
     form = NameForm()
